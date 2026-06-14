@@ -10,7 +10,7 @@ DEBUG = True
 
 STATIC_ROOT = BASE_DIR / 'collected_static'
 
-ALLOWED_HOSTS = ['localhost', 'testtaskiii.duckdns.org'] 
+ALLOWED_HOSTS = ['localhost', 'testtaskiii.duckdns.org']
 
 CSRF_TRUSTED_ORIGINS = ['https://testtaskiii.duckdns.org']
 
